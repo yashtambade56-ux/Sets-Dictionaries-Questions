@@ -1,0 +1,11 @@
+📌Questions
+
+1. Input two sets and print their union, intersection, and difference.
+2. Create a dictionary of 5 students’ marks and print the topper.
+3. Word frequency counter from a paragraph (using a dictionary).
+4. Remove a key–value pair from a dictionary.
+5. Convert two lists (keys, values) into a dictionary.
+6. Reverse a dictionary (swap keys and values).
+7. Find common values between two dictionaries.
+8. Count how many unique values exist across dictionary items.
+9. Input a list and print all unique elements using a set.
