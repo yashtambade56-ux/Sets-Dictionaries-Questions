@@ -3,7 +3,7 @@ This repository contains 9 structured Python problems based on Sets and Dictiona
 These exercises strengthen concepts like set operations, dictionary creation, lookup, updating, removing items, counting occurrences, and converting between different data collections.
 This part represents Questions 29 to 38 from the full 50-question Python basics series.
 
-📌 Topics Covered
+✅Topics Covered
 1. Creating sets from user input
 2. Union, intersection & difference operations
 3. Unique elements using sets
